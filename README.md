@@ -30,7 +30,7 @@
 
 1. Clone the Repository  
    ```bash
-   git clone https://github.com/yushmitabisu018/Algorithm-Visualizer.git
+   git clone https://github.com/ankitvidyarthi24/Algorithm-Visualizer.git
    cd AlgorithmVisualizer
    ```
 2. Install the necessary dependancies
